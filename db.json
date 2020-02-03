@@ -1,7 +1,7 @@
 {
   "posts": [
     { "id": 4, "title": "Post 1" },
-    { "id": 5 "title": "Post 2" },
+    { "id": 5, "title": "Post 2" },
     { "id": 6, "title": "Post 3" }
   ],
   "comments": [
